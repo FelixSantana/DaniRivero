@@ -129,7 +129,7 @@ html, body {
 }
 
 .guitar{
-    background-image: url("/img/play\ guitar.jpg");
+    background-image: url("/img/play guitar.jpg");
     background-size: cover;
     grid-column: 1/5;
     margin-top: 40px;
